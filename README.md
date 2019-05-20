@@ -1,6 +1,6 @@
 # hello-world
 Just another repo
 
-Greetiings!
+Greetings!
 
 I love pizza and wings!
